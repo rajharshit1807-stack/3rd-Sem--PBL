@@ -13,4 +13,4 @@ A C++ project focused on simplifying hostel room management, student records, an
 ### Tech Stack
 **C++** · **OOP** · **Hash Table** · **Linked List** · **Circular Queue** · **File Handling**
 
-Built as an academic project to apply Data Structures and OOP concepts to a real-world hostel management problem.
+Built as an academic project to apply Data Structures and Object Oriented Programming concepts to a real-world hostel management problem.
